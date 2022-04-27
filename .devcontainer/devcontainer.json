@@ -1,0 +1,12 @@
+{
+	"name": "Azure Functions & Python 3",
+	"dockerFile": "Dockerfile",
+	"forwardPorts": ["8080:80"],
+	"extensions": [
+		"ms-azuretools.vscode-azurefunctions",
+		"ms-azuretools.vscode-docker",
+		"ms-python.python",
+		"Azurite.azurite"
+	],
+	"runArgs": ["--env-file", "local.env"]
+}
