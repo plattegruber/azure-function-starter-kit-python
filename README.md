@@ -10,14 +10,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
   <h3 align="center">Azure Functions Starter Kit (Python)</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    An awesome template to jumpstart your Azure Function projects!
   </p>
 </div>
 
@@ -54,33 +50,20 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is an opinionated starter kit for building an Azure Function written in Python.
+This is an opinionated starter kit for building an Azure Function written in Python. By cloning this repo, you'll have things like DevContainers and Azurite all set up and ready to go, so you can start writing and shipping your functions sooner.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [Azure Functions](https://azure.microsoft.com/en-us/services/functions/)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 
-You should have:
+You should have installed on your machine:
 * Docker
 * Visual Studio Code
+  * The Visual Studio Code Remote - Containers extension
+
 
 <!-- USAGE EXAMPLES -->
 ## Usage
