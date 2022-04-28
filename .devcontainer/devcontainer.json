@@ -8,5 +8,6 @@
 		"ms-python.python",
 		"Azurite.azurite"
 	],
-	"runArgs": ["--env-file", "local.env"]
+	// uncomment this line if you have a local environment variables
+	// "runArgs": ["--env-file", "local.env"]
 }
